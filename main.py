@@ -34,3 +34,4 @@ def computer_guess (x):
 
 computer_guess(1000)
 guess(10)
+guess(100)
